@@ -5,5 +5,9 @@ license: MIT
 authors: Ezekiel Templin
 homepage: http://rubygems.org/gems/typhoeus-simple
 
+runtime_dependencies:
+  typhoeus: ~> 0.2.4
+  nokogiri: ~> 1.4.4
+
 development_dependencies:
   bundler: ~> 1.0.0
