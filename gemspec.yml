@@ -1,0 +1,9 @@
+name: typhoeus-simple
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: Ezekiel Templin
+homepage: http://rubygems.org/gems/typhoeus-simple
+
+development_dependencies:
+  bundler: ~> 1.0.0

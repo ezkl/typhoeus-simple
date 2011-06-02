@@ -1,0 +1,26 @@
+= typhoeus-simple
+
+* {Homepage}[http://rubygems.org/gems/typhoeus-simple]
+* {Documentation}[http://rubydoc.info/gems/typhoeus-simple/frames]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'typhoeus/simple'
+
+== Requirements
+
+== Install
+
+  $ gem install typhoeus-simple
+
+== Copyright
+
+Copyright (c) 2011 Ezekiel Templin
+
+See LICENSE.txt for details.
