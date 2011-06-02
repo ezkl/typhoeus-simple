@@ -1,6 +1,6 @@
 name: typhoeus-simple
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "Adds get and get_parsed methods to Kernel for cleaner code."
+description: "I like the open method provided by open-uri, so I copied it for use with Typhoeus and Nokogiri."
 license: MIT
 authors: Ezekiel Templin
 homepage: http://rubygems.org/gems/typhoeus-simple
