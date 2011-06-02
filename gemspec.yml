@@ -1,5 +1,5 @@
 name: typhoeus-simple
-summary: "Adds get and get_parsed methods to Kernel for cleaner code."
+summary: "Adds get and get_parsed methods to Kernel for clean code."
 description: "I like the open method provided by open-uri, so I copied it for use with Typhoeus and Nokogiri."
 license: MIT
 authors: Ezekiel Templin
